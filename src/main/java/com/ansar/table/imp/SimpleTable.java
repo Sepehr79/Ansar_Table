@@ -2,6 +2,7 @@ package com.ansar.table.imp;
 
 import com.ansar.table.Table;
 import com.ansar.table.TableCell;
+import com.ansar.table.TableRow;
 import com.ansar.table.exception.IrregularTableException;
 import com.ansar.table.exception.TableIndexOutOfBoundException;
 import lombok.Data;
